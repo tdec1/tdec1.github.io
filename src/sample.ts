@@ -4,12 +4,12 @@ const author = {
   tiktok: `https://www.tiktok.com/@indieteamofone`,
   ig: `https://www.instagram.com/indieteamofone/`,
   x: `https://x.com/indieteamofone`,
-  email: "mailto:anthonylannn@gmail.com",
+  email: "tduartec06@gmail.com",
 };
 
 const buy = {
-  title: `See on Github`,
-  link: `https://github.com/anthonylan/angie`,
+  title: `Conóceme`,
+  link: `https://github.com/tdec1/tdec1`,
 };
 
 export { author, buy };

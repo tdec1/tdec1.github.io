@@ -1,6 +1,6 @@
-# Angie
+# Thomas
 
-ANGIE is a sleek Astro portfolio template built for creatives and developers. Featuring responsive layouts, customizable sections, and a bold brutalist design, it’s made to help you stand out and showcase your work with style.
+Thomas es una persona creatica apasionada por el depprte y la computación.
 
 ![basics](./src/assets/demo/thumbnail.png)
 
