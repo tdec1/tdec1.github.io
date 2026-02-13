@@ -1,6 +1,6 @@
 const author = {
-  name: `Angela`,
-  nickname: `angie`,
+  name: `Thomas Duarte Cano`,
+  nickname: `Thomy`,
   tiktok: `https://www.tiktok.com/@indieteamofone`,
   ig: `https://www.instagram.com/indieteamofone/`,
   x: `https://x.com/indieteamofone`,
